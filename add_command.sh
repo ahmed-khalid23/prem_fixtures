@@ -1,0 +1,1 @@
+alias premf="./get_fixtures.sh"
